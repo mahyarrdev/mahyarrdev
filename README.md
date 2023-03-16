@@ -20,5 +20,5 @@ I love exploring the world of code🔸️</h4>
     <li>💡Website backend</li>
   </ul>
 
-<img width="10px" height="10px"  src="https://s2.uupload.ir/files/instagram-new_(1)_337d.png" border="0" alt="instagram " />
-<img width="10px" height="10px" src="https://s2.uupload.ir/files/telegram-app--v5_vd.png" border="0" alt="telegram" />
+<img width="40px" height="10px"  src="https://s2.uupload.ir/files/instagram-new_(1)_337d.png" border="0" alt="instagram " />
+<img width="40px" height="10px" src="https://s2.uupload.ir/files/telegram-app--v5_vd.png" border="0" alt="telegram" />
