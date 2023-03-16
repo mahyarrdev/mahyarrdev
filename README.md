@@ -21,4 +21,5 @@ I love exploring the world of code🔸️</h4>
   </ul>
 
 <a href=&quothttps://github.com/mahyarrdev&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=mahyarrdev&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=mahyarrdev&quot />
+</a>
