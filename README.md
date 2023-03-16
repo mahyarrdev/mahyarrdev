@@ -20,6 +20,5 @@ I love exploring the world of code🔸️</h4>
     <li>💡Website backend</li>
   </ul>
 
-<h4>☎️contact with me:</h4>
-<a href="https://uupload.ir/" target="_blank"><img src="https://s2.uupload.ir/files/instagram-new_(1)_337d.png" border="0" alt="instagram " /></a>
-<a href="https://uupload.ir/" target="_blank"><img src="https://s2.uupload.ir/files/telegram-app--v5_vd.png" border="0" alt="telegram" /></a>
+<img src="https://s2.uupload.ir/files/instagram-new_(1)_337d.png" border="0" alt="instagram " />
+<img src="https://s2.uupload.ir/files/telegram-app--v5_vd.png" border="0" alt="telegram" />
