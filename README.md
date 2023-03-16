@@ -21,5 +21,5 @@ I love exploring the world of code🔸️</h4>
   </ul>
 
 <h4>☎️contact with me:</h4>
-<img width="30px" height="30px"  src="https://s2.uupload.ir/files/instagram-new_(1)_337d.png" border="0" alt="instagram " /> <p>instagram </p>
+<a href="t.me/m_coding><img width="30px" height="30px"  src="https://s2.uupload.ir/files/instagram-new_(1)_337d.png" border="0" alt="instagram " /> <p>instagram </p></a>
  <img width="30px" height="30px" src="https://s2.uupload.ir/files/telegram-app--v5_vd.png" border="0" alt="telegram" /> <p>telegram </p>
