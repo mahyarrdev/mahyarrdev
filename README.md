@@ -12,13 +12,6 @@ I love exploring the world of code🔸️</h4>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h4>What I do:</h4>
-  <ul>
-    <li>🔐Website security</li>
-    <li>💬Counseling</li>
-    <li>💡Website backend</li>
-  </ul>
-
 <h4>☎️contact with me:</h4>
 <img width="30px" height="30px"  src="https://s2.uupload.ir/files/instagram-new_(1)_337d.png" border="0" alt="instagram " /> <p>instagram </p>
  <img width="30px" height="30px" src="https://s2.uupload.ir/files/telegram-app--v5_vd.png" border="0" alt="telegram" /> <p>telegram </p>
